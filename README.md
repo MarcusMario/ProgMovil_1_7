@@ -1,4 +1,4 @@
-# Laboratorio_Siete - Reproductor de Video en Android
+# Ejercicio 7 - Reproductor de Video en Android
 
 ## Descripción
 
